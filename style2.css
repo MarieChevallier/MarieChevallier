@@ -1,0 +1,98 @@
+body
+{
+    color: #444;
+    font-family: verdana;
+    line-height: 1.6;
+    margin: 50px auto;
+    font-size: 15px;
+    padding: 0 10px;
+}
+
+.Soustitre1, .paragraphe1, p
+{
+    text-align: justify;
+}
+
+.titre1
+{
+    text-align: center;
+}
+
+
+
+h1, h2, h3
+{
+	line-height: 1.2;
+
+}
+
+h1, h2, h3, p
+{
+	margin-right: 280px;
+}
+h1, h2, h3, p
+{
+	margin-left: 280px;
+}
+blockquote, li
+{
+	margin-left: 300px;
+}
+
+}
+h1
+{
+	font-size: 28px;
+}
+h2
+{
+	font-size: 22px;
+}
+p
+{
+	font-size: 15px;
+}
+
+.faux
+{
+	color: darkred;
+	text-decoration: underline;
+
+}
+
+.bleumoche
+{
+	color: blue;
+
+}
+
+.violetmoche
+{
+	color: purple;
+
+}
+
+.minuscule
+{
+	font-size: xx-small;
+
+}
+
+.phraserandom
+{
+	font-family: Courier new;
+
+}
+
+.mfw
+{
+	color: darkred;
+
+}
+
+.guillemets
+{
+	font-size: x-large;
+	font-family: Comic Sans MS;
+
+}
